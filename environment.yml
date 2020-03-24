@@ -1,6 +1,0 @@
-name: environment
-channels:
-  - notebooks-forge
-dependencies:
-  - numpy
-  - folium
